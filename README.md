@@ -1,7 +1,7 @@
 To-Do List Application
 A console-based To-Do List application built in C#. This project demonstrates the use of object-oriented programming (OOP), file handling, and creating a user-friendly interface for managing tasks.
 
-============================================================================================
+===========================================================================
 
 Features
 
@@ -13,7 +13,7 @@ Features
 - Remove Tasks: Delete tasks from the list.
 - Persistent Storage: Save tasks to a file and reload them when the application restarts.
 
-============================================================================================
+===========================================================================
 
 Code Structure
 The project is divided into four main components:
@@ -48,7 +48,7 @@ Manages file operations, including:
 - Saving tasks to a JSON file.
 - Loading tasks from a JSON file upon application startup.
 
-============================================================================================
+===========================================================================
 
 Development Process
 
@@ -60,7 +60,7 @@ Tools Used
 Challenges
 - One of the major challenges was implementing persistent storage to save and load tasks using JSON. Debugging issues with file handling required thorough testing and reviewing documentation.
 
-============================================================================================
+===========================================================================
 
 Lessons Learned
 - Planning and breaking the project into smaller tasks made the development process smoother.
